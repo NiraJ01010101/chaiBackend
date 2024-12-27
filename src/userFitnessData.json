@@ -1,0 +1,64 @@
+{
+  "fitnessData": [
+    {
+      "name": "Jane Smith",
+      "age": 28,
+      "gender": "Female",
+      "email": "jane.smith@example.com",
+      "fitnessLevel": "Intermediate",
+      "classPreferences": ["Yoga", "Pilates"],
+      "goals": ["Improve flexibility", "Reduce stress"],
+      "date": "2024-01-15",
+      "progress": "Completed 10 yoga classes",
+      "comments": "Feeling more flexible and relaxed"
+    },
+    {
+      "name": "John Doe",
+      "age": 35,
+      "gender": "Male",
+      "email": "john.doe@example.com",
+      "fitnessLevel": "Beginner",
+      "classPreferences": ["HIIT", "Strength Training"],
+      "goals": ["Lose weight", "Gain muscle"],
+      "date": "2024-01-20",
+      "progress": "Lost 5 pounds",
+      "comments": "Working hard in HIIT classes"
+    },
+    {
+      "name": "Emily Johnson",
+      "age": 22,
+      "gender": "Female",
+      "email": "emily.j@example.com",
+      "fitnessLevel": "Advanced",
+      "classPreferences": ["Spin", "CrossFit"],
+      "goals": ["Increase endurance", "Compete in triathlons"],
+      "date": "2024-01-25",
+      "progress": "Increased cycling distance",
+      "comments": "Training for a triathlon"
+    },
+    {
+      "name": "Michael Brown",
+      "age": 40,
+      "gender": "Male",
+      "email": "michael.b@example.com",
+      "fitnessLevel": "Intermediate",
+      "classPreferences": ["Circuit Training", "Zumba"],
+      "goals": ["Improve overall fitness", "Socialize"],
+      "date": "2024-01-18",
+      "progress": "Joined a Zumba class",
+      "comments": "Enjoying the social aspect"
+    },
+    {
+      "name": "Sarah Williams",
+      "age": 30,
+      "gender": "Female",
+      "email": "sarah.w@example.com",
+      "fitnessLevel": "Beginner",
+      "classPreferences": ["Barre", "Dance Fitness"],
+      "goals": ["Build confidence", "Have fun"],
+      "date": "2024-01-22",
+      "progress": "Attended 5 dance fitness classes",
+      "comments": "Loving the energy of the classes"
+    }
+  ]
+}

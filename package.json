@@ -1,0 +1,35 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "basic app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch -r dotenv/config --experimental-json-modules src/index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "hitesh",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cloudinary": "^2.4.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "exceljs": "^4.4.0",
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.3",
+    "mongoose-aggregate-paginate-v2": "^1.1.2",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.15",
+    "pm2": "^5.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.3"
+  }
+}
